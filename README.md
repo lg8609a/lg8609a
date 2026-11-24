@@ -1,6 +1,6 @@
-Luiz Gustavo Saraiva | 26 | São Paulo - BR
+Luiz Gustavo Saraiva | 27 | São Paulo - BR
 
-Médico Veterinário 👨🏻‍⚕️ | Estudante de Análise e Desenvolvimento de Sistemas 🧑🏻‍🎓
+Desenvolvedor Backend | Engenheiro de Automação 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
